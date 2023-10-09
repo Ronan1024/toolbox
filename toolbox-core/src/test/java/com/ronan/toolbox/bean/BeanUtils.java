@@ -1,6 +1,6 @@
 package com.ronan.toolbox.bean;
 
-import com.ronan.toolbox.core.bean.BeanUtil;
+import io.github.Ronan1024.toolbox.core.bean.BeanUtil;
 import org.junit.Test;
 
 /**

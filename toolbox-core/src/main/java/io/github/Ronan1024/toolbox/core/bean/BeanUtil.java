@@ -1,4 +1,4 @@
-package com.ronan.toolbox.core.bean;
+package io.github.Ronan1024.toolbox.core.bean;
 
 import java.beans.BeanInfo;
 import java.beans.IntrospectionException;
